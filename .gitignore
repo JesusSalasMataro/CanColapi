@@ -1,0 +1,9 @@
+**/build
+**/nbproject
+**/*.xml
+**/*.mf
+*.pdf
+*.rar
+*.ddd
+*.jpg
+
